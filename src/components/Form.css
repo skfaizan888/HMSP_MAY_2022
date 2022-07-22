@@ -1,0 +1,60 @@
+.prsnlcontainer{
+    background-color: rgb(235, 230, 230);
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid;
+    box-shadow: 5px 5px 5px black;
+    
+}
+.prsnlHeading{
+    text-align: center;
+    font-weight: bolder;
+    text-shadow: 2px 2px 2px white;
+}
+.selected{
+    background-color: transparent;
+    font-size: 15px;
+    border-radius: 5px;
+    height: 40px;
+    margin-left: 26px;
+    margin-bottom: 10px;
+}
+.btn{
+    height: 50px;
+    position: relative;
+    left: 75px;
+    top: 10px;
+}
+.btn1{
+    height: 50px;
+    position: relative;
+    left: 1225px;
+}
+.btnsubmit{
+    height: 50px;
+    width: 120px;
+    position: relative;
+    left: 550px; 
+    top: 10px; 
+}
+.btncancel{
+    height: 50px;
+    width: 120px;
+    position: relative;
+    left: 595px;
+    top: 10px; 
+}
+.edctndiv{
+    margin-left: 50px;
+}
+.pheading{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: blue;
+    text-shadow: 2px 2px 3px black ;
+}
+.marqu{
+    color: red;
+    background-color: yellow;
+    padding: 5px;
+    display: inline-block;
+}
